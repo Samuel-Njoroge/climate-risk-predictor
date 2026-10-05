@@ -9,3 +9,5 @@ Climate conditions can shape health risks and mortality, especially among vulner
 This challenge aims to leverage **machine learning to predict climate-sensitive mortality**, uncover key risk patterns, and provide data-driven insights into how environmental conditions may influence health outcomes.
 
 ## Project Architecture 
+
+## Data Flow
